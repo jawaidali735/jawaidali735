@@ -64,7 +64,7 @@
   <br>
   <img alt="Jawaid Ali Github Stats" src="https://github-readme-stats.vercel.app/api?username=jawaidali735&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=fb8c00&amp;icon_color=fb8c00" height="200px" style="max-width: 70%;">
   <br>
-  <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jawaidali735&theme=dark&hide_border=true&background=transparent" style="max-width: 100%;">
+  <img alt="GitHub Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jawaidali735&theme=dark&hide_border=true&background=0D1117" style="max-width: 100%;">
 </div>
 
 <br>
